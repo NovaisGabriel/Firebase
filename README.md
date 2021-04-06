@@ -1,2 +1,2 @@
 # Firebase
-Repositório destinado ao estudo de ferramentas que serão utilizadas no projeto Antologias.
+Repositório destinado ao estudo de ferramentas que serão utilizadas em outros Projetos.
